@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SulnamServerPresencePlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SulnamServerPresencePlugin_jar</output-path>
+    <root id="archive" name="SulnamServerPresencePlugin.jar">
+      <element id="module-output" name="SulnamServerPresencePlugin" />
+    </root>
+  </artifact>
+</component>

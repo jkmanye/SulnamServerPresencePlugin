@@ -1,0 +1,3 @@
+name: SulnamServerPresencePlugin
+main: com.schoolvote.MCPlugin.Sulnam.SulnamServerPresencePlugin.Main
+version: 1.0_PRERELEASE-1.17.1
